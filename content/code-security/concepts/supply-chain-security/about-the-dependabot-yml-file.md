@@ -37,6 +37,7 @@ The `dependabot.yml` file controls how {% data variables.product.prodname_depend
 ### For security updates
 
 * Customize security update pull requests with labels, assignees, and reviewers
+* Define target branches for security updates
 * Configure private registry authentication
 * Set limits on open pull requests
 
